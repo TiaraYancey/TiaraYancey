@@ -4,10 +4,7 @@
 My technical toolkit includes JavaScript, Python, responsive web development, and database/API management. I’m passionate about digital defense and bring strong analytical thinking, clear communication, and problem-solving skills to any team. I thrive in fast-paced, security-driven environments where protecting digital assets is the top priority.
 </p>
 
-- 🔭 I’m currently working on hands-on labs and threat detection scenarios through platforms like TryHackMe and RangeForce to build practical SOC and incident response skills. At the same time, I’m actively applying for entry-level roles in cybersecurity while refining my incident response playbooks and strengthening my detection and monitoring capabilities. 
-- 🌱 I’m currently learning advanced cybersecurity concepts and tools.
-- 💬 Ask me about music or tech I’m always down to talk.
-- ⚡ Fun fact: I’m a huge fan of music and video games.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
