@@ -1,8 +1,18 @@
 <h1> Hey, I'm Tiara 🚀🎧</h1>
-<p> Motivated and adaptable IT professional with a background in software engineering and full-stack development, now pivoting into cybersecurity. I’m CompTIA Security+, Network+, and CySA+ certified, and currently pursuing my first role in a Security Operations Center (SOC) as a Cybersecurity Analyst or IT Security Operations Support specialist.
-
-My technical toolkit includes JavaScript, Python, responsive web development, and database/API management. I’m passionate about digital defense and bring strong analytical thinking, clear communication, and problem-solving skills to any team. I thrive in fast-paced, security-driven environments where protecting digital assets is the top priority.
+<p> Motivated and adaptable IT professional with a background in software developer and full-stack development, now pivoting into cybersecurity. I’m CompTIA Security+, Network+, and CySA+ certified.
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 </p>
+
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+
+<hr/>
 
 
 
